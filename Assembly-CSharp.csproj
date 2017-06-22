@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{3EE5C546-8069-1466-91A9-2E7075309D2A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\HandpointControls\Scripts\Fader.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\FollowHandPoint.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\HandPointControl.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\ItemSelector.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\Navigator.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\PushDetector.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\ScrollingMenu.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\SessionManagerVisualizer.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\StaticMenu.cs" />
+     <Compile Include="Assets\HandpointControls\Scripts\SwipeDetector.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\GL.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNIContext.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNIDepthmapViewer.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNIImagemapViewer.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNISessionManager.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNISingleSkeletonController.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNISkeleton.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNISplitScreenSkeletonController.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNIUserTracker.cs" />
+     <Compile Include="Assets\OpenNI\Scripts\OpenNIUsersRadar.cs" />
+     <Compile Include="Assets\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\Scripts\DummyFeed.cs" />
+     <Compile Include="Assets\Scripts\ExitOnEscape.cs" />
+     <Compile Include="Assets\Scripts\LoadScenetest.cs" />
+     <Compile Include="Assets\Scripts\MainUserTracker.cs" />
+     <Compile Include="Assets\Scripts\MenuItemChangeColor.cs" />
+     <Compile Include="Assets\Scripts\OpenNIDepthmapToMesh.cs" />
+     <Compile Include="Assets\Scripts\SampleLoaderFeed.cs" />
+     <Compile Include="Assets\Scripts\SampleLoaderItem.cs" />
+     <Compile Include="Assets\Scripts\StartSessionMessage.cs" />
+     <Compile Include="Assets\Scripts\TextTools.cs" />
+     <Compile Include="Assets\Scripts\animationsBlendController.cs" />
+     <Compile Include="Assets\Scripts\animationsController.cs" />
+     <Compile Include="Assets\Scripts\customNI.cs" />
+     <Compile Include="Assets\Scripts\enableOnSession.cs" />
+     <Compile Include="Assets\Scripts\enableRegistration.cs" />
+     <Compile Include="Assets\Scripts\eyeballController.cs" />
+     <Compile Include="Assets\Scripts\lidController.cs" />
+     <Compile Include="Assets\Scripts\loadScenes.cs" />
+     <Compile Include="Assets\Scripts\objectPerUser.cs" />
+     <Compile Include="Assets\SlideViewer\ImageItem.cs" />
+     <Compile Include="Assets\SlideViewer\ImageViewerVisualizer.cs" />
+     <Compile Include="Assets\SlideViewer\ImagesFeed.cs" />
+     <Compile Include="Assets\SlideViewer\SetColor.cs" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="OpenNI.Net">
+ <HintPath>/Users/benjamin/Documents/Unity/OVF2017/Assets/OpenNI/Scripts/OpenNI.Net.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

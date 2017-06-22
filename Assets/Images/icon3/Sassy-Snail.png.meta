@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: ac3fef0095ad54165864f8ce815007ac
+timeCreated: 1493416981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sassy-Snail_0
+    21300002: Sassy-Snail_1
+    21300004: Sassy-Snail_2
+    21300006: Sassy-Snail_3
+    21300008: Sassy-Snail_4
+    21300010: Sassy-Snail_5
+    21300012: Sassy-Snail_6
+    21300014: Sassy-Snail_7
+    21300016: Sassy-Snail_8
+    21300018: Sassy-Snail_9
+    21300020: Sassy-Snail_10
+    21300022: Sassy-Snail_11
+    21300024: Sassy-Snail_12
+    21300026: Sassy-Snail_13
+    21300028: Sassy-Snail_14
+    21300030: Sassy-Snail_15
+    21300032: Sassy-Snail_16
+    21300034: Sassy-Snail_17
+    21300036: Sassy-Snail_18
+    21300038: Sassy-Snail_19
+    21300040: Sassy-Snail_20
+    21300042: Sassy-Snail_21
+    21300044: Sassy-Snail_22
+    21300046: Sassy-Snail_23
+    21300048: Sassy-Snail_24
+    21300050: Sassy-Snail_25
+    21300052: Sassy-Snail_26
+    21300054: Sassy-Snail_27
+    21300056: Sassy-Snail_28
+    21300058: Sassy-Snail_29
+    21300060: Sassy-Snail_30
+    21300062: Sassy-Snail_31
+    21300064: Sassy-Snail_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sassy-Snail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_1
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_2
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_3
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_4
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_5
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_6
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_7
+      rect:
+        serializedVersion: 2
+        x: 9142
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_8
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_9
+      rect:
+        serializedVersion: 2
+        x: 11754
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_10
+      rect:
+        serializedVersion: 2
+        x: 13060
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_12
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_13
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_14
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_15
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_16
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_17
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_18
+      rect:
+        serializedVersion: 2
+        x: 9142
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_19
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_20
+      rect:
+        serializedVersion: 2
+        x: 11754
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_21
+      rect:
+        serializedVersion: 2
+        x: 13060
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_23
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_24
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_25
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_26
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_27
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_28
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_29
+      rect:
+        serializedVersion: 2
+        x: 9142
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_30
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_31
+      rect:
+        serializedVersion: 2
+        x: 11754
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Snail_32
+      rect:
+        serializedVersion: 2
+        x: 13060
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

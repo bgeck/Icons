@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 80512f1f4dad84371bd62ce81a054153
+timeCreated: 1493416734
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sassy-Writing_0
+    21300002: Sassy-Writing_1
+    21300004: Sassy-Writing_2
+    21300006: Sassy-Writing_3
+    21300008: Sassy-Writing_4
+    21300010: Sassy-Writing_5
+    21300012: Sassy-Writing_6
+    21300014: Sassy-Writing_7
+    21300016: Sassy-Writing_8
+    21300018: Sassy-Writing_9
+    21300020: Sassy-Writing_10
+    21300022: Sassy-Writing_11
+    21300024: Sassy-Writing_12
+    21300026: Sassy-Writing_13
+    21300028: Sassy-Writing_14
+    21300030: Sassy-Writing_15
+    21300032: Sassy-Writing_16
+    21300034: Sassy-Writing_17
+    21300036: Sassy-Writing_18
+    21300038: Sassy-Writing_19
+    21300040: Sassy-Writing_20
+    21300042: Sassy-Writing_21
+    21300044: Sassy-Writing_22
+    21300046: Sassy-Writing_23
+    21300048: Sassy-Writing_24
+    21300050: Sassy-Writing_25
+    21300052: Sassy-Writing_26
+    21300054: Sassy-Writing_27
+    21300056: Sassy-Writing_28
+    21300058: Sassy-Writing_29
+    21300060: Sassy-Writing_30
+    21300062: Sassy-Writing_31
+    21300064: Sassy-Writing_32
+    21300066: Sassy-Writing_33
+    21300068: Sassy-Writing_34
+    21300070: Sassy-Writing_35
+    21300072: Sassy-Writing_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sassy-Writing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_1
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_2
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_3
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_4
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_5
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_6
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_7
+      rect:
+        serializedVersion: 2
+        x: 9142
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_8
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_9
+      rect:
+        serializedVersion: 2
+        x: 11754
+        y: 5760
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_11
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_12
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_13
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_14
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_15
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_16
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_17
+      rect:
+        serializedVersion: 2
+        x: 9142
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_18
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_19
+      rect:
+        serializedVersion: 2
+        x: 11754
+        y: 3840
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_21
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_22
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_23
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_24
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_25
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_26
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_27
+      rect:
+        serializedVersion: 2
+        x: 9142
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_28
+      rect:
+        serializedVersion: 2
+        x: 10448
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_29
+      rect:
+        serializedVersion: 2
+        x: 11754
+        y: 1920
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_31
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_32
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_33
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_34
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_35
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sassy-Writing_36
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 0
+        width: 1306
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
